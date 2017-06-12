@@ -6,7 +6,17 @@ This is a simple Storybook scaffolding project create to play easily with React.
 ## Quick Start
 
 ```
+// Clone the repository in your local machine
+git clone https://github.com/codeflyer/storybook-scaffold.git
+
+
+// Go in the right folder
+cd storybook-scaffold
+
+// Install the dependencies
 npm install
+
+// Run the app
 npm run storybook
 
 // open your browser: http://localhost:6006
